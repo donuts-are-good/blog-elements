@@ -1,0 +1,8 @@
+{
+    "plugin_name": "blog-elements",
+    "plugin_version": "1.0.0",
+    "plugin_author": "@donuts-are-good",
+    "plugin_description": "this plugin is a test of the bearclaw plugin syste. it contains download.html which will insert a bar that contains links to download bearclaw and bearclaw source code.",
+    "plugin_license":"MIT License, @donuts-are-good",
+    "plugin_link": "https://github.com/donuts-are-good/blog-elements" 
+}
